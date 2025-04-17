@@ -4,7 +4,6 @@ CareSync AI is a comprehensive healthcare application that combines medical repo
 
 
 
-
 ## 🌟 Features
 
 - **Medical Report Analysis**: Upload and analyze medical reports to extract key information
