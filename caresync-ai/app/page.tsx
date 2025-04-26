@@ -35,7 +35,7 @@ export default function HomePage() {
     {
       name: "Ankur Negi",
       role: "UI/UX Designer & Researcher",
-      image: "/7.jpg",
+      image: "/Ankur.jpeg",
       bio: "Ankur has a background in design and has worked on various projects in the healthcare sector.",
     },
   ]
